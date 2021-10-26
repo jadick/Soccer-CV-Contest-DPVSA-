@@ -1,0 +1,7 @@
+referee
+player_team_2
+goalkeeper_team_2
+outsider
+player_team_1
+goalkeeper_team_1
+ball
